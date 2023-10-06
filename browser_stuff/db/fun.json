@@ -1,0 +1,30 @@
+[
+  {
+    "type": "boxing",
+    "difficulty": "hard"
+  },
+  {
+    "type": "soccer",
+    "difficulty": "hard"
+  },
+  {
+    "type": "pickleball",
+    "difficulty": "easy"
+  },
+  {
+    "type": "hiking",
+    "difficulty": "dynamic"
+  },
+  {
+    "type": "this",
+    "difficulty": "thing"
+  },
+  {
+    "type": "hi",
+    "difficulty": "there"
+  },
+  {
+    "type": "this",
+    "difficulty": "other"
+  }
+]
